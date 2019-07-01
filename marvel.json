@@ -1,0 +1,36 @@
+{
+  "name": "",
+  "img": "images/services.png",
+  "children": [
+    {
+      "hero": "",
+      "name": "TPS cloud ERP integrates every\nbusiness process, boost\nemployee’s productivity and\nconvert real-time data into\nactions. We provide solutions\nthat asists Companies with the\ntool they required to drive\ninnovation and stimulate business\n\ngrowth.",
+      "img":  "images/erp.png",
+      "size": 40000
+    },
+    {
+      "hero": "",
+      "name": "We serve the market with the\nbest expertise in the latest\nAugmented Reality for iOS,\nAndroid and Web Application.\nOur technical experts have deep\nknowledge and experience in\ndesigning and developing AR\nsolutions for business expertise\nlike Corporation Management, E-\ncommerce, Construction and\nmany more. Learn More…..",
+      "img":  "images/ar.png",
+      "size": 40000
+    },
+    {
+      "hero": " ",
+      "name": "Study the business goal and\ndefining the need with\nspecification we design and\nimplement complete cycle of\nsoftware stdevelopment process.",
+      "img":  "images/business.png",
+      "size": 40000
+    },
+    {
+      "hero": "",
+      "name": "We serve\nyou with a high-performance\nblockchain solution to send,\nreceive, restore or trade digital\ncurrencies for complex business\nlogic needs. Our expertise\nenables us to provide you with a\ncost-effective decentralized and\nautomated process to\nstrategically design Smart\ncontract, Smart wallets, and\nother blockchain based\nsolutions. Know more…",
+      "img":  "images/block.png",
+      "size": 40000
+    },
+    {
+      "hero": "",
+      "name": "We\nprovide long-term and incident-\nbased contract which also include\nremote trouble shooting &amp;\nsupport of software.",
+      "img":  "images/support.png",
+      "size": 40000
+    }
+  ]
+}
